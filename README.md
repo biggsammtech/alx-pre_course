@@ -1,1 +1,1 @@
-*My first readme*
+tech is cool
